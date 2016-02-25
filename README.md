@@ -1,2 +1,6 @@
 # OPT
-Prácticas de la asignatura de Optimización
+Prácticas de la asignatura de Optimización, correspondiente al primer curso del Grado en Ingeniería Informática en la Universidad de La Laguna.
+
+--------------------------------------------------------------
+Rafael Herrero Álvarez  
+(rafael.herrero.13@ull.edu.es)
